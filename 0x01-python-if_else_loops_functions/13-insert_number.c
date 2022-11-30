@@ -5,7 +5,7 @@
  * @number: number to insert
  * Return: listint_t*
  */
-include "lists.h"
+#include "lists.h"
 
 listint_t *insert_node(listint_t **head, int number)
 {
