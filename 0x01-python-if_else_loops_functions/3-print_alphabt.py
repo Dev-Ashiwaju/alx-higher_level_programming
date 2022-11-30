@@ -6,4 +6,3 @@ while i <= 122:
     else:
         print("{0:c}".format(i), end="")
         i += 1
-
